@@ -1,0 +1,45 @@
+{
+    "info":{
+        "name":"Eslam Ahmed Mohamed Rashad",
+        "nickname":"Eslam",
+        "age":20,
+        "about":"this is about section",
+        "headline":"",
+        "picture":"pic url",
+        "logo":"",
+        "resume":"",
+        "available":null
+    },
+    "contact":{
+        "Facebook":"",
+        "Instagram":"",
+        "Phonenumber":"",
+        "WhatsUp":"",
+        "LinkedIn":"",
+        "Github":"",
+        "Kaggle":"",
+        "dribbble":""
+        },
+    "skills":[
+        {
+            "name":"Flutter",
+            "projects":[
+                {
+                    "url":"",
+                    "name":"",
+                    "pic":"",
+                    "desc":""
+                }
+            ],
+            "certificates":[
+                {
+                    "name":"",
+                    "img":"",
+                    "certificateurl":""
+                }
+            ],
+            "tools":["Dart","Flutter","SQL"],
+            "desc":""
+        }
+    ]
+}
