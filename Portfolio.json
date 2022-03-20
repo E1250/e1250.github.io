@@ -4,21 +4,19 @@
         "nickname":"Eslam",
         "age":20,
         "about":"this is about section",
-        "headline":"",
-        "picture":"pic url",
+        "headline":"ML Engineer | Data Scienctist | Flutter App Developer",
+        "picture":"https://i.ibb.co/Pmx8Qfj/my-pic.jpg",
         "logo":"",
         "resume":"",
         "available":null
     },
     "contact":{
-        "Facebook":"",
-        "Instagram":"",
-        "Phonenumber":"",
-        "WhatsUp":"",
-        "LinkedIn":"",
-        "Github":"",
-        "Kaggle":"",
-        "dribbble":""
+        "PhoneNumber":"+201118015502",
+        "LinkedIn":"https://www.linkedin.com/in/e1250/",
+        "Github":"https://github.com/E1250",
+        "Kaggle":"https://www.kaggle.com/eslam200",
+        "Dribbble":"https://dribbble.com/E1250",
+        "HashNode":"https://hashnode.com/@E1250"
         },
     "skills":[
         {
@@ -35,7 +33,7 @@
                 {
                     "name":"",
                     "img":"",
-                    "certificateurl":""
+                    "certificateURL":""
                 }
             ],
             "tools":["Dart","Flutter","SQL"],
