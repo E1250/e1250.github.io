@@ -1,0 +1,1 @@
+const jsonDataGHAPI = "https://e1250.github.io/Portfolio.json";
